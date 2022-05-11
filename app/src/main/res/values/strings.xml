@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My retrofilt</string>
+    <string name="item">Item</string>
+    <string name="java">java</string>
+    <string name="java_program_old_android_is_c_c">java program old android is c,c++</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="c">c</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="p">+</string>
+    <string name="m">-</string>
+    <string name="o">=</string>
+    <string name="tas">/</string>
+    <string name="aq">*</string>
+</resources>
